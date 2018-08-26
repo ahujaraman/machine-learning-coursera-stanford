@@ -1,5 +1,5 @@
 # machine-learning-coursera-stanford
-This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. I sincerely request to first try out on your own and if you get stuck, you can have a look at my explained solutions.
+This repo is created for all the work done by me as a part of Coursera's Machine Learning Course. I sincerely request to first try out on your own and if you get stuck, you can have a look at my explained solutions. **Grade: 97.3%**
 [MyCertificate](https://www.coursera.org/account/accomplishments/records/GA8WYZZCJNXT)
 
 # Assignments 

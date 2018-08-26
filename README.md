@@ -1,6 +1,6 @@
 # machine-learning-coursera-stanford
 My assignment solutions. I sincerely request to first try out on your own and if you get stuck, you can have a look at my explained solutions. **Grade: 97.3%**
-[MyCertificate](https://www.coursera.org/account/accomplishments/records/GA8WYZZCJNXT)
+[Certificate](https://www.coursera.org/account/accomplishments/records/GA8WYZZCJNXT)
 
 # Assignments 
 # 1. Linear Regression
